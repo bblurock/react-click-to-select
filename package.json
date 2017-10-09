@@ -20,7 +20,7 @@
   "author": "Mapbox",
   "license": "ISC",
   "peerDependencies": {
-    "prop-types": "^^15.5.8",
+    "prop-types": "^15.6.0",
     "react": "^16.0.0"
   },
   "babel": {
