@@ -1,6 +1,6 @@
 {
-  "name": "@mapbox/react-click-to-select",
-  "version": "2.0.0",
+  "name": "@bblurock/react-click-to-select",
+  "version": "2.0.1",
   "description": "a higher-order component that selects elements contained within it on click",
   "files": [
     "dist"
@@ -20,8 +20,8 @@
   "author": "Mapbox",
   "license": "ISC",
   "peerDependencies": {
-    "prop-types": "^15.5.0",
-    "react": "0.13.x || 0.14.x || ^15.0.0"
+    "prop-types": "^^15.5.8",
+    "react": "^16.0.0"
   },
   "babel": {
     "presets": [
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mapbox/react-click-to-select.git"
+    "url": "git@github.com:bblurock/react-click-to-select.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
